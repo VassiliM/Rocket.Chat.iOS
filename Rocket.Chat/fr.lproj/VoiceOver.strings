@@ -3,23 +3,24 @@
   Rocket.Chat
 
   Created by Matheus Cardoso on 12/5/17.
+  Updated by VassiliM on 12/29/17.
   Copyright © 2017 Rocket.Chat. All rights reserved.
 */
 
 // MARK: Auth
-"auth.connect.urlfield.label" = "Server URL";
-"auth.connect.urlfield.hint" = "Insert your server's URL here.";
+"auth.connect.urlfield.label" = "URL du serveur";
+"auth.connect.urlfield.hint" = "Entrer l'URL de votre serveur ici.";
 
-"auth.authentication.emailorusername.label" = "Email or Username";
-"auth.authentication.emailorusername.hint" = "Insert your email or username here.";
-"auth.authentication.password.label" = "Password";
-"auth.authentication.password.label" = "Insert your password here.";
+"auth.authentication.emailorusername.label" = "Email ou nom d'utilisateur";
+"auth.authentication.emailorusername.hint" = "Entrez votre email ou nom d'utilisateur ici.";
+"auth.authentication.password.label" = "Mot de passe";
+"auth.authentication.password.label" = "Entrez votre mot de passe ici.";
 
 // MARK: Subscriptions
-"subscriptions.main.userview.label" = "Session information";
-"subscriptions.main.userview.value" = "Server: %@. User: %@. Status: %@.";
-"subscriptions.main.userview.hint" = "Double tap to change status.";
+"subscriptions.main.userview.label" = "Information de session";
+"subscriptions.main.userview.value" = "Serveur : %@. Utilisateur : %@. Statut : %@.";
+"subscriptions.main.userview.hint" = "double-cliquer pour changer de statut.";
 
 // MARK: Message
-"message.label" = "Message from %@ at %@.";
-"message.hint" = "Reactions: %@";
+"message.label" = "Message de %@ à %@.";
+"message.hint" = "Réactions : %@";
